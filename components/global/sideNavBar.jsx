@@ -9,7 +9,7 @@ import {
   MdOutlineAttachMoney,
   MdOutlineMoneyOffCsred,
 } from "react-icons/md";
-import {BsBuilding } from "react-icons/bs";
+import { BsBuilding } from "react-icons/bs";
 import { RiBankLine } from "react-icons/ri";
 import { TbUsers } from "react-icons/tb";
 

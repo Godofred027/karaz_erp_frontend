@@ -1,7 +1,10 @@
-import LoginLayout from "../components/login/login-form";
+import LoginLayout from "../components/login/loginLayout";
+import GlobalLayout from "../components/global/globalLayout";
 
 export default function Login() {
   return (
-    <LoginLayout/>
+    <GlobalLayout title="Login" description="Iniciar Secion">
+      <LoginLayout />
+    </GlobalLayout>
   );
 }
